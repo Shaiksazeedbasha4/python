@@ -1,0 +1,4 @@
+name="venith"
+ course="python"
+ rank='A'
+ print(name,"is studying", course,"is getting rank",rank)
