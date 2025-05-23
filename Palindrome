@@ -1,0 +1,6 @@
+a="sazeed"
+rev=a[::-1]
+if rev==a:
+    print("palindrome")
+else:
+    print("not palondrome")
